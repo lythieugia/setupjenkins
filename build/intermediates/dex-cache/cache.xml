@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lytuananh/Downloads/ExampleTestProject_AndroidStudio_v5.5.1/app/libs/robotium-solo-5.5.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="837a68558b6933b23ab48766c9a05ad13a176186">
+        <dex dex="/Users/lytuananh/Downloads/ExampleTestProject_AndroidStudio_v5.5.1/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.5.1_49c244c8d9eb263a0c0fdd05d3adc1cbb269aafb.jar" />
+    </item>
+
+</items>
