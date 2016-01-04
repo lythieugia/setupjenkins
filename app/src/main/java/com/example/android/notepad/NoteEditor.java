@@ -45,7 +45,7 @@ import com.example.android.notepad.NotePad.NoteColumns;
  * {@link android.content.Intent#ACTION_EDIT}, or create a new note {@link android.content.Intent#ACTION_INSERT}.
  */
 public class NoteEditor extends Activity {
-    private static final String TAG = "NoteEditor";
+    private static final String TAG = "NoteEditorr";
 
     /**
      * Standard projection for the interesting columns of a normal note.
